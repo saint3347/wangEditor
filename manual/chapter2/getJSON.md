@@ -1,7 +1,7 @@
 # Get Or Set JSON Data
 
 ## Get JSON
-You can use `editor.txt.getJSON()` API to get JSON content, the format as follows:
+You can use `editor.txt.getJSON()` to get JSON content, the format as follows:
 
 ```json
 [
@@ -9,13 +9,13 @@ You can use `editor.txt.getJSON()` API to get JSON content, the format as follow
         "tag": "p",
         "attrs": [],
         "children": [
-            "欢迎使用 ",
+            "welcome to use ",
             {
                 "tag": "b",
                 "attrs": [],
                 "children": [ "wangEditor" ]
             },
-            " 富文本编辑器"
+            "rich text editor"
         ]
     },
     {
@@ -35,6 +35,6 @@ You can use `editor.txt.getJSON()` API to get JSON content, the format as follow
 ```
 
 ## Set JSON
-You aslo can use `editor.txt.setJSON(json)` API to set JSON content, the json param format must be consistent with mentioned above.
+You can also use `editor.txt.setJSON(json)` API to set JSON content, the json param format must be consistent with mentioned above.
 
 Note `setJSON` API is supported started with v4.3.0.

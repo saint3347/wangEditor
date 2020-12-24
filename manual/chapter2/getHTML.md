@@ -1,7 +1,7 @@
 # Get HTML Content
-`editor.txt.html()` API be used to get HTML content.
+The `editor.txt.html()` is used to get HTML content.
 
-Note **the html which get from editor doesn't contains any style**.it means that you can implement changing theme function by yourself.if you want to custom the styles for tags such as `<table>`, `<code>`, `<blockquote>` and so on, The styles used in the editor are provided below for your reference：
+Note **the html which get from editor doesn't contains any style**.it means that you can implement changing theme function by yourself.if you want to custom the styles for tags such as `<table>`, `<code>`, `<blockquote>` and so on, The editor styles are provided below for your reference：
 
 ```css
 /* table styles */

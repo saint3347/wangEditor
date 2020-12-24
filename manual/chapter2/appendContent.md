@@ -1,2 +1,2 @@
 # Append Content
-After creating editor, you can use `editor.txt.append('<p>content</p>')` API to append content.   
+After creating editor, you can use `editor.txt.append('<p>content</p>')` to append content.   

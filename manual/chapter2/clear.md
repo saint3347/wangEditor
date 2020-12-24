@@ -1,2 +1,2 @@
 # Clear Content
-The `editor.txt.clear()` API is used to clear editor content.
+The `editor.txt.clear()` is used to clear editor content.
